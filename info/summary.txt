@@ -1,0 +1,5 @@
+Result-oriented Full Stack Software Engineer with 5.5+ years of experience working with startups across the US, Canada, and India.
+
+Accelerated user engagement and revenue growth in past roles through strategic integration and development projects like real-time API integration, SEO improvements, A/B experiments, and ad server integration.
+
+Adept at using JavaScript (Angular, React, Node, Express, Next), Python, MySQL, MongoDB, and AWS to deliver business-critical features
